@@ -1,7 +1,7 @@
 import { BrowserRouter } from "react-router-dom";
 import styled from "styled-components";
 import { GiKnifeFork } from "react-icons/gi";
-import Search from "./src/components/Search";
+import Search from "./components/Search.jsx";
 import Pages from "./pages/Pages";
 import { Link } from "react-router-dom";
 
